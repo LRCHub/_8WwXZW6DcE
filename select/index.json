@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "人魚",
+  "base_artist": "POLKADOT STINGRAY",
+  "createdAt": "2025-12-02T20:06:52.680066Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人魚 - 全知全能 ver.",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/01_人魚_-_全知全能_ver._Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/02_人魚_Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ningyo [人魚]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_Ningyo_[人魚]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "FLOWER FLOWER",
+      "has_synced": false,
+      "path": "select/04_人魚_FLOWER_FLOWER.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/05_人魚_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "NOKKO",
+      "has_synced": true,
+      "path": "select/06_人魚_NOKKO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/07_人魚_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/08_人魚_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/09_人魚_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/10_人魚_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/11_人魚_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/12_人魚_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "NOKKO",
+      "has_synced": false,
+      "path": "select/13_人魚_NOKKO.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "人魚 (全知全能 ver.)",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/14_人魚_(全知全能_ver.)_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "人魚 (全知全能 ver.) - The Mermaid (Capacity Version)",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/15_人魚_(全知全能_ver.)_-_The_Mermaid_(Capacity_Version)_Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "人魚（全知全能 Ver.）",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/16_人魚(全知全能_Ver.)_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "邱鋒澤",
+      "has_synced": true,
+      "path": "select/17_人魚_邱鋒澤.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "安室奈美恵",
+      "has_synced": false,
+      "path": "select/18_人魚_安室奈美恵.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "人魚",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/19_人魚_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人魚",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_01_人魚_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "人魚",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_02_人魚_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "人魚",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_03_人魚_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "人魚(全知全能 ver.)",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_04_人魚(全知全能_ver.)_ポルカドットスティングレイ.txt"
+    }
+  ]
+}
